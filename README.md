@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 Jhoncodev
 
-<!--
-**jhoncodev/jhoncodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre mí
+¡Hola! Soy Jhon, apasionado por la programación y siempre aprendiendo algo nuevo. Actualmente, me enfoco en Java y proyectos con Arduino.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
+- **Sistema de Ventas - Pollos y Parrillas "El Gran Rancho"**  
+  Creando un sistema de ventas en Java para gestionar mesas, pedidos y productos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Clasificación de Desechos**  
+  Usando Arduino para clasificar residuos: orgánicos, reciclables, vidrio y otros.
+
+## 🔧 Habilidades
+- Java, C++, Python
+- Programación Orientada a Objetos
+- Proyectos con Arduino
+- Git & GitHub
+
+## 📫 Contacto
+- [LinkedIn](https://linkedin.com)  
+- Correo: jhoncodev@email.com
+
+¡Gracias por pasarte por aquí!
